@@ -16,7 +16,8 @@ pnpm install
 ```
 
 ### Usage
----
+```bash
+npm run dev
 
 ### Features
 - Feature 1
