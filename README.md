@@ -18,6 +18,7 @@ pnpm install
 ### Usage
 ```bash
 npm run dev
+```
 
 ### Features
 - Feature 1
@@ -31,8 +32,6 @@ npm run dev
 3. Commit changes (`git commit -m "Add feature"`)
 4. Push to the branch (`git push origin feature-name`)
 5. Open a Pull Request
-
-
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
