@@ -1,7 +1,7 @@
 # Pravega Racing New Website
 
 ## Table of Contents
-- [Installation] (#installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -33,5 +33,5 @@ pnpm install
 
 
 
-## Licensing
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
