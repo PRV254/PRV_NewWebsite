@@ -13,6 +13,7 @@ Step-by-step instructions on how to install and setup the project
 git clone https://github.com/PRV254/PRV_NewWebsite.git
 cd repo-name
 pnpm install
+```
 
 ### Usage
 ---
